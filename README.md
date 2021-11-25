@@ -13,5 +13,6 @@ This was an assignment to practice integration of MySQL and Tableau for data ana
 - the average male and female salary per department  using a stored procedure.
 
 ## File description
-The code is available in the MySQL file `Employees-management.sql` and the .csv files for use in Tableau Public software are, `gender-breakdown.csv`, `manager-gender.csv`, `salaries.csv` and `dept-salaries.csv`.
+The code is available in the MySQL file `Employees-management.sql` and the .csv files for use in Tableau Public software are:
+-`gender-breakdown.csv`, `manager-gender.csv`, `salaries.csv` and `dept-salaries.csv`.
 
