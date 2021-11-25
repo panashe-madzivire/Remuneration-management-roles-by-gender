@@ -14,6 +14,9 @@ This was an assignment to practice integration of MySQL and Tableau for data ana
 
 ## File description
 The code is available in the MySQL file `Employees-management.sql` and the .csv files for use in Tableau Public software are:
-`gender-breakdown.csv`, `manager-gender.csv`, `salaries.csv` and `dept-salaries.csv`.
+- `gender-breakdown.csv`, 
+- `manager-gender.csv`,
+- `salaries.csv` and 
+- `dept-salaries.csv`.
 
--The data Visualisation is available [here](https://public.tableau.com/app/profile/panashe4489/viz/Remuneration-management-roles-by-gender/Dashboard1)
+- The data Visualisation is available [here](https://public.tableau.com/app/profile/panashe4489/viz/Remuneration-management-roles-by-gender/Dashboard1)
